@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 80px;
+    font-weight: bold;
+}
+
+input[type="text"], input[type="number"], button {
+    margin-bottom: 10px;
+}
